@@ -3635,10 +3635,10 @@
 		-ms-flex-pack: center;
 		-ms-flex-align: center;
 		padding: 8em 0 6em 0;
-		-moz-align-items: center;
+		-moz-align-items: auto;
 		-webkit-align-items: center;
 		-ms-align-items: center;
-		align-items: center;
+		align-items: auto;
 		display: -moz-flex;
 		display: -webkit-flex;
 		display: -ms-flex;
@@ -3646,7 +3646,7 @@
 		-moz-justify-content: center;
 		-webkit-justify-content: center;
 		-ms-justify-content: center;
-		justify-content: center;
+		justify-content: auto;
 		background-image: url("STENSOFT.PNG");
 		background-position: center;
 		background-size: cover;
