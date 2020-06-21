@@ -3653,8 +3653,8 @@
 		background-repeat: no-repeat;
 		border-top: 0;
 		min-height: 100vh;
-		height: 100vh !important;
-		position: relative;
+		height: auto !important;
+		position: auto;
 		text-align: center;
 		overflow: hidden;
 	}
