@@ -3647,7 +3647,7 @@
 		-webkit-justify-content: center;
 		-ms-justify-content: center;
 		justify-content: center;
-		background-image: url("../../images/banner.jpg");
+		background-image: url("STENSOFT.PNG");
 		background-position: center;
 		background-size: cover;
 		background-repeat: no-repeat;
@@ -3660,10 +3660,10 @@
 	}
 
 		#banner .inner {
-			-moz-transform: scale(1.0);
-			-webkit-transform: scale(1.0);
-			-ms-transform: scale(1.0);
-			transform: scale(1.0);
+			-moz-transform: scale(3.0);
+			-webkit-transform: scale(3.0);
+			-ms-transform: scale(3.0);
+			transform: scale(3.0);
 			-moz-transition: opacity 1s ease, -moz-transform 1s ease;
 			-webkit-transition: opacity 1s ease, -webkit-transform 1s ease;
 			-ms-transition: opacity 1s ease, -ms-transform 1s ease;
