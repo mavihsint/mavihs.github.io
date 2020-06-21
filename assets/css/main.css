@@ -3660,10 +3660,10 @@
 	}
 
 		#banner .inner {
-			-moz-transform: scale(3.0);
-			-webkit-transform: scale(3.0);
-			-ms-transform: scale(3.0);
-			transform: scale(3.0);
+			-moz-transform: scale(1.0);
+			-webkit-transform: scale(1.0);
+			-ms-transform: scale(1.0);
+			transform: scale(1.0);
 			-moz-transition: opacity 1s ease, -moz-transform 1s ease;
 			-webkit-transition: opacity 1s ease, -webkit-transform 1s ease;
 			-ms-transition: opacity 1s ease, -ms-transform 1s ease;
@@ -3674,8 +3674,8 @@
 		}
 
 		#banner h1 {
-			font-size: 4em;
-			margin-bottom: .25em;
+			font-size: 6em;
+			margin-bottom: 2em;
 		}
 
 		#banner p {
